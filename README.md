@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/devpriyanshuy" target="blank"><img src="https://img.shields.io/twitter/follow/devpriyanshuy?logo=twitter&style=for-the-badge" alt="devpriyanshuy" /></a> </p>
 
-- 🔭 I’m currently working on **hacktoberfest.**
+- 🔭 I completed **Hacktoberfest 2023 and Hack-squad 2023.**
 
 - 🌱 I’m currently learning **DSA,OOPS,WEB DEV.**
 
