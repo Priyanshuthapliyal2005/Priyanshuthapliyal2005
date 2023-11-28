@@ -6,8 +6,8 @@
 🔭 I Have Completed Hacktoberfest 2023 and Hack-squad 2023.<br><br>🌱I ' m Currently learning DSA, OOPS, WEB DEV.<br><br>
 👨‍💻 Explore my projects on [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=social&logo=github&logoColor=white)](https://github.com/Priyanshuthapliyal2005/)<br>
 
-[![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet)](https://hacktoberfest.digitalocean.com/)
-[![Hack-squad 2023](https://img.shields.io/badge/Hack--squad-2023-brightgreen)](https://hack-squad.dev/)
+[![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet)](https://hacktoberfest.com/)
+[![Hack-squad 2023](https://img.shields.io/badge/Hack--squad-2023-brightgreen)](https://www.hacksquad.dev/team/checkmate-4yRyh/)
 ### My 2023 Hacktoberfest Badges:
 <p align="center">
   <a href="https://holopin.io/@priyanshuthapliyal2005">
