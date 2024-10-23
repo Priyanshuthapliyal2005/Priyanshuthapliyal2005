@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # Triggers the workflow every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-
-  # Allows you to run the workflow manually from the Actions tab
   workflow_dispatch:
-
-  # Triggers the workflow on push or pull request to the main branch
   push:
     branches:
     - main
@@ -20,25 +15,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Pull the snake action from Platane's repo
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      # Generate the snake contribution graph
       - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: Priyanshuthapliyal2005
           outputs: dist/snake.svg
 
-      # Upload the image as an artifact
       - name: Upload Snake Image
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Updated to v3
         with:
           name: snake
           path: dist/snake.svg
 
-      # Commit the output to the output branch
       - name: Push Snake to Output Branch
         uses: ad-m/github-push-action@v0.6.0
         with:
