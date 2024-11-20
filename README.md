@@ -33,10 +33,13 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshuthapliyal2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuthapliyal2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuthapliyal2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+![priyanshuthapliyal2005's Stats](https://github-readme-stats.vercel.app/api?username=priyanshuthapliyal2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<br />
+![priyanshuthapliyal2005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuthapliyal2005&theme=tokyonight&hide_border=true)
+<br />
+![priyanshuthapliyal2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuthapliyal2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<br /><br /><br />
+# 📊 GitHub Comtribution Graph:
 <!-- contribution graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
   <picture>
