@@ -32,7 +32,7 @@
   <br />
 </div>
 
-<h1 align="center">📊 GitHub & LeetCode Stats</h1>
+### 📊 GitHub & LeetCode Stats
 
 <table>
 <tr>
