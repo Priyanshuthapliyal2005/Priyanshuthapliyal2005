@@ -32,13 +32,23 @@
   <br />
 </div>
 
-# 📊 GitHub Stats:
-![priyanshuthapliyal2005's Stats](https://github-readme-stats.vercel.app/api?username=priyanshuthapliyal2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<br />
-![priyanshuthapliyal2005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuthapliyal2005&theme=tokyonight&hide_border=true)
-<br />
-![priyanshuthapliyal2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuthapliyal2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<br /><br /><br />
+<h1 align="center">📊 GitHub & LeetCode Stats</h1>
+
+<table>
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=priyanshuthapliyal2005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuthapliyal2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuthapliyal2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</td>
+<td width="50%" align="center">
+    <a href="https://leetcode.com/priyanshuthapliyal/">
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=priyanshuthapliyal&theme=onedark&border=no-border" alt="LeetCode Stats" />
+    </a>
+</td>
+</tr>
+</table>
+
 # 📊 GitHub Comtribution Graph:
 <!-- contribution graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
@@ -56,7 +66,9 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshuthapliyal2005&theme=rose_pine" width="90%" alt="stats graph"/>
 
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=priyanshuthapliyal2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
