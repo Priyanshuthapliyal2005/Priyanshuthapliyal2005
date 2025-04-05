@@ -1,5 +1,15 @@
 # 💫 About Me:
-🌱 I’m currently working on: Exploring the MERN stack with a focus on web development projects.<br>🤝 I’m looking to collaborate on: MERN stack projects and integrating machine learning with web applications.<br>💬 I’m looking for help with: Advanced MERN stack concepts and incorporating machine learning into web applications.<br>📚 I’m currently learning: Full-stack development (React, Node.js, MongoDB, Express.js) and basics of machine learning.<br>💡 Ask me about: Building efficient web applications and my experiences with hackathons.<br>⚡ Fun fact: I’ve solved over 600+ questions on LeetCode and rank in the top 10%!
+🤝 Collab on: MERN projects, ML-integrated apps, MLOps + Web3 + Full Stack hybrid ideas — open to collab!
+💬 Need help with: Advanced MERN, MLOps workflows, Web3 integration.
+📚 Learning: Full-stack dev (React, Next.js ,Node, MongoDB, Firebase ,Express, Nest.js), MLOps & Web3.
+💡 Ask me about: Hackathons, building efficient apps, and solving real-world problems.
+⚡ Fun fact: Solved 600+ LeetCode problems, top 10% globally.
+💼 **Open to:**
+- Open-source contributions  
+- Freelance/contract work  
+- Internship & full-time roles  
+- Collaborating on MLOps + Web3 + Full Stack hybrid apps
+📬 Got something in mind? DM me — let’s build something awesome!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet)](https://hacktoberfest.com/)
