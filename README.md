@@ -1,14 +1,20 @@
 # 💫 About Me:
 🤝 Collab on: MERN projects, ML-integrated apps, MLOps + Web3 + Full Stack hybrid ideas — open to collab!
+
 💬 Need help with: Advanced MERN, MLOps workflows, Web3 integration.
+
 📚 Learning: Full-stack dev (React, Next.js ,Node, MongoDB, Firebase ,Express, Nest.js), MLOps & Web3.
+
 💡 Ask me about: Hackathons, building efficient apps, and solving real-world problems.
+
 ⚡ Fun fact: Solved 600+ LeetCode problems, top 10% globally.
+
 💼 **Open to:**
 - Open-source contributions  
 - Freelance/contract work  
 - Internship & full-time roles  
 - Collaborating on MLOps + Web3 + Full Stack hybrid apps
+  
 📬 Got something in mind? DM me — let’s build something awesome!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
