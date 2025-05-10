@@ -17,6 +17,9 @@
   
 📬 Got something in mind? DM me — let’s build something awesome!
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet)](https://hacktoberfest.com/)
 [![Hack-squad 2023](https://img.shields.io/badge/Hack--squad-2023-brightgreen)](https://www.hacksquad.dev/team/checkmate-4yRyh/)
@@ -28,6 +31,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Priyanshuthapliyal2005&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:
