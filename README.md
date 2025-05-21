@@ -1,5 +1,5 @@
 # 💫 About Me:
-Open to freelance, internships, and full-stack dev roles. Experienced in MERN, MLOps, Web3, and full-stack development.
+Open to freelance, internships, and full-stack dev roles. Experienced in MERN, MLOps, and full-stack development.
 Book a call: https://t.co/2HcJ0sTssm
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
