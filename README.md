@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a B.Tech CSE student at Graphic Era Hill University, focused on building full-stack applications using React, Next.js, TypeScript, Node.js, Express, MongoDB, and PostgreSQL. I actively apply and expand my full-stack skills through projects involving integration of Machine Learning, Computer Vision, Transformers, LLMs, AI Agents, MLOps, and DevOps.
+I'm Priyanshu Thapliyal, focused on building full-stack applications using React, Next.js, TypeScript, Node.js, Express, MongoDB, and PostgreSQL. I actively apply and expand my full-stack skills through projects involving integration of Machine Learning, Computer Vision, Transformers, LLMs, AI Agents, MLOps, and DevOps.
 
 I integrate LLMs using APIs and the Hugging Face Transformers library to build advanced NLP solutions, including AI-driven platforms, compilers, and real-time assistants.
 
