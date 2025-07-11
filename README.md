@@ -72,11 +72,3 @@ Book a call: https://t.co/2HcJ0sTssm
 <span>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshuthapliyal2005&theme=rose_pine" width="90%" alt="stats graph"/>
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=priyanshuthapliyal2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
