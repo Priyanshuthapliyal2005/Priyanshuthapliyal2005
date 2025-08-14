@@ -9,7 +9,7 @@ Book a call: https://t.co/2HcJ0sTssm
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 [![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet)](https://hacktoberfest.com/)
 [![Hack-squad 2023](https://img.shields.io/badge/Hack--squad-2023-brightgreen)](https://www.hacksquad.dev/team/checkmate-4yRyh/)
 ### My 2023 Hacktoberfest Badges:
@@ -18,7 +18,8 @@ Book a call: https://t.co/2HcJ0sTssm
     <img src="https://holopin.me/priyanshuthapliyal2005" alt="Check out my Holopin badges" />
   </a>
 </p>
-
+ -->
+ 
 [![](https://visitcount.itsvg.in/api?id=Priyanshuthapliyal2005&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
