@@ -23,10 +23,11 @@ Book a call: https://t.co/2HcJ0sTssm
 [![](https://visitcount.itsvg.in/api?id=Priyanshuthapliyal2005&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
-
+<!-- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/930471162302062704) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_1_1_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-thapliyal) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/priyanshuthapliyal/)
-
+ -->
+ 
 <div align="left">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
@@ -39,9 +40,9 @@ Book a call: https://t.co/2HcJ0sTssm
   <br />
   <br />
 </div>
-
+<!-- 
 ### 📊 GitHub & LeetCode Stats
-
+<!-- 
 <table>
 <tr>
 <td width="50%" align="center">
@@ -56,9 +57,10 @@ Book a call: https://t.co/2HcJ0sTssm
 </td>
 </tr>
 </table>
-
+ -->
+<!-- 
 # 📊 GitHub Comtribution Graph:
-<!-- contribution graph -->
+<!-- contribution graph
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshuthapliyal2005&theme=react-dark" />
@@ -66,10 +68,9 @@ Book a call: https://t.co/2HcJ0sTssm
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshuthapliyal2005&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Priyanshuthapliyal2005's contribution graph" />
   </picture>
 </a>
-
 <hr />
-
 <hr>
 <span>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshuthapliyal2005&theme=rose_pine" width="90%" alt="stats graph"/>
+ -->
