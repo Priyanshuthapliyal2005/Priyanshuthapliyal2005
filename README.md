@@ -4,7 +4,7 @@ I'm Priyanshu Thapliyal, focused on building full-stack applications using React
 I integrate LLMs using APIs and the Hugging Face Transformers library to build advanced NLP solutions, including AI-driven platforms, compilers, and real-time assistants.
 
 Open to freelance, internships, and full-stack dev roles. Experienced in MERN, MLOps, and full-stack development.
-Book a call: https://t.co/2HcJ0sTssm
+Book a call: https://cal.com/priyanshuthapliyal/15min
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
 
