@@ -1,9 +1,5 @@
 # 💫 About Me:
-I'm Priyanshu Thapliyal, focused on building full-stack applications using React, Next.js, TypeScript, Node.js, Express, MongoDB, and PostgreSQL. I actively apply and expand my full-stack skills through projects involving integration of Machine Learning, Computer Vision, Transformers, LLMs, AI Agents, MLOps, and DevOps.
-
-I integrate LLMs using APIs and the Hugging Face Transformers library to build advanced NLP solutions, including AI-driven platforms, compilers, and real-time assistants.
-
-Open to freelance, internships, and full-stack dev roles. Experienced in MERN, MLOps, and full-stack development.
+20 , AI Full-Stack Engineer <br>
 Book a call: https://cal.com/priyanshuthapliyal/15min
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
