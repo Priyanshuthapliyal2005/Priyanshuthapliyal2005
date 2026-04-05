@@ -1,6 +1,7 @@
 # 💫 About Me:
 21 , AI Full-Stack Engineer <br>
-Book a call: https://cal.com/priyanshuthapliyal/15min
+Book a call: https://cal.com/priyanshuthapliyal/15min <br>
+Open-source contributions : https://priyanshuthapliyal.notion.site/
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
 
