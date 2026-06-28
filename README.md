@@ -1,4 +1,3 @@
-# About Me:
 21 , Engineer <br>
 Book a call: https://cal.com/priyanshuthapliyal/15min <br>
 Open-source contributions : https://priyanshuthapliyal.notion.site/
