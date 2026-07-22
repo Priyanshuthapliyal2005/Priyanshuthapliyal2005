@@ -24,7 +24,7 @@ Open-source contributions : https://priyanshuthapliyal.notion.site/
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/930471162302062704) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_1_1_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-thapliyal) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/priyanshuthapliyal/)
  -->
  
-<div align="left">
+<!-- <div align="left">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
@@ -35,7 +35,7 @@ Open-source contributions : https://priyanshuthapliyal.notion.site/
   <br />
   <br />
   <br />
-</div>
+</div> -->
 <!-- 
 ### 📊 GitHub & LeetCode Stats
 <!-- 
