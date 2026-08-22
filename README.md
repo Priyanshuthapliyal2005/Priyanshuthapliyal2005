@@ -1,11 +1,10 @@
 21 , Engineer <br>
-Book a call: https://cal.com/priyanshuthapliyal/15min <br>
-Open-source contributions : https://priyanshuthapliyal.notion.site/
-
+working on AI Infra!
+<!--
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+ Proudly created with GPRM ( https://gprm.itsvg.in )
 [![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet)](https://hacktoberfest.com/)
 [![Hack-squad 2023](https://img.shields.io/badge/Hack--squad-2023-brightgreen)](https://www.hacksquad.dev/team/checkmate-4yRyh/)
 ### My 2023 Hacktoberfest Badges:
