@@ -1,5 +1,5 @@
 21 , Engineer <br>
-working on AI Infra!
+working on Infrastructure
 <!--
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=priyanshuthapliyal2005)
 
